@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+body {
+  max-width:100%;
+  background: #E3E3E3; 
+  max-height:1080px;
+  border-bottom: 1px solid #bdb2b2;
+}

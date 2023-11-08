@@ -1,0 +1,111 @@
+
+.formulaire{
+    margin-top: 30px;
+    margin-left: -90px;
+}
+
+
+
+.table-container{
+    display: flex;
+
+}
+
+.tablecont {
+    border: 1px solid #C4C4C4;
+    margin-left: -90px;
+  }
+  .tablecont th{
+    border: 1px solid #C4C4C4; 
+    padding: 8px; 
+  }
+  .tablecont td{
+    border: 1px solid #C4C4C4;  padding: 8px; 
+  }
+.cell1{
+font-family: 'Roboto';font-weight: 400;font-size: 14px; color:#646464 ;height: 38px;
+}
+.cell12{
+    font-family: 'Roboto';font-weight: 400;font-size: 14px; color:#646464 ;height: 38px;padding-left: 10px;
+ }
+.cell13{
+        font-family: 'Roboto';font-weight: 400;font-size: 14px; color:#646464 ;height: 38px;
+}
+.cell14{
+            font-family: 'Roboto';font-weight: 400;font-size: 14px; color:#646464 ;height: 38px;
+}
+.cell15{
+                font-family: 'Roboto';font-weight: 400;font-size: 14px; color:#646464 ;height: 38px;
+}
+.cell16{
+                    font-family: 'Roboto';font-weight: 400;font-size: 14px; color:#646464 ;height: 38px;
+}
+ .row1 {
+    background-color: #FFFFFF;
+  }
+  
+  .row2 {
+    background-color: #F2F2F2;
+  }
+  .circle {
+    width: 12px;height: 12px;border-radius: 50%;/*Utilisation de border-radius pour créer un cercle */
+  }
+  .hr-row1 {
+    background-color: #FF8851 /* Couleur de fond pour la première ligne hr */
+  }
+  
+  .hr-row2 {
+    background-color: #A851FF; /* Couleur de fond pour la deuxième ligne hr */
+  }
+  .parae{
+    margin-top: -15px;margin-left: 20px;
+  }
+  .tables{
+ width:450px ;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  } /* le tableau se deforme alors j'ai choisie font-size 13px */
+  .cata{
+    width:450px;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  }
+  .per{
+    width: 120px;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  }
+  .sold{
+    width: 120px;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  }
+  .prix{
+    width: 120px;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  }
+  .futur{
+    width: 120px;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  }
+  .ima{
+    width: 270px;font-size: 13px;font-family: 'Roboto';font-weight: 500;color:#494949;margin-left: 15px;
+  }
+.action{
+    width:5px;
+}
+  .logose{
+    display: flex;justify-content: space-between;margin-left: -10px;
+  }
+.imag1{
+    margin-left: 20px;
+}
+.imag2{
+    margin-left: 10px;
+}
+.imag3{
+    margin-left: 10px;
+}
+.delete-buttons{
+    width: 10px; margin-top:45px;
+}
+@media (width>=1555px) {
+    .formulaire{
+        margin-top: 30px;
+        margin-left: -80px;
+    }
+    .tablecont {
+        border: 1px solid #C4C4C4;
+        margin-left: -80px;
+      }
+}

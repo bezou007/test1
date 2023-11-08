@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+.Appbar{
+    background:white;
+    height:66px;
+    box-shadow: none;
+    margin-left: 1px;
+}
+.abs{
+    color:#494949;font-size:24px;margin-left:30px;font-family:'Poppins';font-weight: 500;
+}
+.stripe2{
+    margin:23px 30px;
+}
+.bala{
+    width:26px;height:23px;color:#858585;
+}
+.sous1{
+    color:#494949;font-size:18px;margin-left:30px;font-family:'Poppins';font-weight: 500;
+}
+.stripe3{
+    margin-left:30px;
+}
+.sous2{
+    color:#858585;font-size:16px;margin-left:30px;font-family:'Poppins';font-weight: 400
+}
+.Help{
+    margin-left:325px;
+}
+.set{
+    margin-left: 10px;
+}
+.divi{
+    color:#858585;height:45px;margin-left:30px
+}
+.nom{
+    display:flex;flex-direction:column;align-items:center;margin-left:30px;font-family:'Poppins';font-weight: 400
+}
+.profil{
+    margin-left:30px
+}
